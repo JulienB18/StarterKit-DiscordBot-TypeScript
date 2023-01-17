@@ -1,0 +1,19 @@
+{
+  "name": "starterkit-discordbot-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "ts-node src/bot.ts"
+  },
+  "author": "Julien Boutet",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "dotenv": "^16.0.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
